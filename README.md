@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Jaime Ariel! 👋
 
-<!--
-**jariel17/jariel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐞 QA Engineer & 📊 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I am a passionate learner bridging the gap between **Software Quality** and **Data Science**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spent the early part of my career in Manual QA, developing a sharp eye for detail and user experience. Over the last year, I've leveled up into **Test Automation** while simultaneously learning about **Data Science**.
+
+---
+
+### 🚀 My Journey
+
+I believe in continuous growth. Here is my current trajectory:
+
+* **Past:** Mastered Manual QA methodologies, bug tracking, and user empathy.
+* **Present:** Building Automation frameworks to create clean, maintainable tests.
+* **Future:** My ultimate goal is to combine my testing discipline with data science to build, deploy, and monitor robust machine learning models.
+
+---
+
+
+### 🧠 What I'm Learning Right Now
+
+I am a lifelong learner. I'm currently diving deep into:
+1.  **Screenplay Pattern Best Practices:** Moving beyond Page Object Model to create more modular tests.
+2.  **Machine Learning Algorithms:** Deepening my understanding of regression and classification models.
+3.  **CI/CD Pipelines:** Learning to integrate my automated tests into deployment workflows.
+
+---
+
+### 📫 Let's Connect!
+
+I am currently open to roles in **QA Automation** with a path toward data-driven roles. If you want to chat about testing architecture, data trends, or just want to say hi:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jariel-acosta/) • [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.ariel.acosta17@gmail.com)
