@@ -32,4 +32,4 @@ I am a lifelong learner. I'm currently diving deep into:
 
 I am currently open to roles in **QA Automation** with a path toward data-driven roles. If you want to chat about testing architecture, data trends, or just want to say hi:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jariel-acosta/) • [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.ariel.acosta17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jariel-acosta/) • [![Gmail Badge](https://img.shields.io/badge/-j.ariel.acosta17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:j.ariel.acosta17@gmail.com)
