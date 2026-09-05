@@ -44,7 +44,7 @@ Computer Science Engineer with 9+ years of professional experience in software q
 | **QA & Process** | TestRail, Zephyr, Jira, Agile/Scrum, WCAG accessibility |
 | **Data & Analytics** | SQL, pandas, NumPy, PySpark, SparkSQL |
 | **Machine Learning** | scikit-learn, XGBoost, MLflow, DVC |
-| **Backend & Infrastructure** | FastAPI, Docker, Kafka, GitHub Actions, Linux / WSL |
+| **Backend & Infrastructure** | .NET, C#, FastAPI, Docker, Kafka, GitHub Actions, Linux / WSL |
 | **Databases** | PostgreSQL, MySQL, SQL Server, MongoDB Atlas, CockroachDB |
 | **Cloud** | AWS S3, Lambda, Glue, Athena, AWS Cloud Practitioner |
 
